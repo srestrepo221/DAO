@@ -61,17 +61,3 @@ const Create = ({ provider, dao, setIsLoading }) => {
 }
 
 export default Create;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
