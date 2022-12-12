@@ -17,7 +17,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy/localhost": "hardhat run scripts/deploy.js --network localhost",
+    "deploy/goerli": "hardhat run scripts/deploy.js --network goerli",
+    "seed/Localhost" : "hardhat run scripts/seed.js --network localhost",
+    "seed/goerli" : "hardhat run scripts/seed.js --network goerli"
   },
   "author": "gregory@dappuniversity.com",
   "license": "ISC",
