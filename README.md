@@ -1,5 +1,14 @@
 # DAO
 
+## Technology Stack & Tools
+- Solidity (Writing Smart Contracts & Tests)
+- Javascript (React & Testing)
+- [Hardhat](https://hardhat.org/) (Development Framework)
+- [Ethers.js](https://docs.ethers.io/v5/) (Blockchain Interaction)
+- [React.js](https://reactjs.org/) (Frontend Framework)
+- [Ipfs] (Metadata storage)
+- [React] routers (Navigational components)
+
 This project demonstrates a basic DAO use case.
 The DAO treasury holds ETH to be used in funding proposals
 It comes with a ERC-20 contract that can be used to create tokens that will be distributed to investors. As well as a test for that contract, and a script that deploys that contract.
