@@ -6,7 +6,6 @@
 - [Hardhat](https://hardhat.org/) (Development Framework)
 - [Ethers.js](https://docs.ethers.io/v5/) (Blockchain Interaction)
 - [React.js](https://reactjs.org/) (Frontend Framework)
-- [Ipfs] (Metadata storage)
 - [React] routers (Navigational components)
 
 This project demonstrates a basic DAO use case.
